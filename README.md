@@ -1,1 +1,3 @@
-# Discord-Promotion-Code-Generator
+# Discord Opera Gx Promotion Gen
+
+! Hello
